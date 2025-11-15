@@ -28,7 +28,7 @@
     "playwright-ctrf-json-reporter": "^0.0.19",
     "fs": "^0.0.1-security",
     "get-port": "^7.1.0",
-    "lighthouse": "^11.5.0",
+    "lighthouse": "^13.0.1",
     "playwright-lighthouse": "^4.0.0",
     "rimraf": "^5.0.5"
   }
