@@ -30,6 +30,6 @@
     "get-port": "^7.1.0",
     "lighthouse": "^11.5.0",
     "playwright-lighthouse": "^4.0.0",
-    "rimraf": "^5.0.5"
+    "rimraf": "^6.1.0"
   }
 }
